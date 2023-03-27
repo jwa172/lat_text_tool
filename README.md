@@ -1,1 +1,1 @@
-# lat_text_tool
+# Latin NLP tool
